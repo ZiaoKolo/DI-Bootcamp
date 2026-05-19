@@ -1,2 +1,3 @@
+#afficher le resultat
 resultat = (99**3)*8
-print(resultat)
+print(f"Le resultat est : {resultat}")
